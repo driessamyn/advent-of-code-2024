@@ -1,5 +1,7 @@
 .idea/
-day01/real-data.sql
-day01/test-data.sql
-day03/data.php
-day04/data.cfm
+/day01/real-data.sql
+/day01/test-data.sql
+/day03/data.php
+/day04/data.cfm
+/day05/data-*
+/day05/test-data.pl
