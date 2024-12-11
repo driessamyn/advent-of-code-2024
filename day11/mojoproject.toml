@@ -1,0 +1,12 @@
+[project]
+authors = ["Dries Samyn <5557551+driessamyn@users.noreply.github.com>"]
+channels = ["conda-forge", "https://conda.modular.com/max"]
+description = "Add a short description here"
+name = "day11"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+max = ">=24.5.0,<25"

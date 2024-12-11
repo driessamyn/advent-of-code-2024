@@ -6,3 +6,10 @@
 /day05/data-*
 /day05/test-data.pl
 /day06/data.js
+
+# pixi environments
+.pixi
+*.egg-info
+# magic environments
+.magic
+data.mojo
