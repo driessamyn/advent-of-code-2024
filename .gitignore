@@ -1,11 +1,23 @@
 .idea/
-/day01/real-data.sql
-/day01/test-data.sql
-/day03/data.php
-/day04/data.cfm
-/day05/data-*
-/day05/test-data.pl
-/day06/data.js
+.DS_Store
+
+advent-of-code-2024.iml
+
+lib/*
+
+day01/real-data.sql
+day01/test-data.sql
+day03/data.php
+day04/data.cfm
+day05/data-*
+day05/test-data.pl
+day06/data.js
+day07/data.js
+day08/data.ts
+day10/data.py
+day12/*data.*
+
+* copy*
 
 # pixi environments
 .pixi
@@ -13,3 +25,5 @@
 # magic environments
 .magic
 data.mojo
+
+*.pyc
