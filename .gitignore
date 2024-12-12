@@ -14,7 +14,9 @@ day05/test-data.pl
 day06/data.js
 day07/data.js
 day08/data.ts
+day09/data.txt
 day10/data.py
+day11/data.mojo
 day12/*data.*
 
 * copy*
@@ -24,6 +26,7 @@ day12/*data.*
 *.egg-info
 # magic environments
 .magic
-data.mojo
+
 
 *.pyc
+
